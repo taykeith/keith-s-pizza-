@@ -10,7 +10,7 @@ keiths pizza webpage.it's a website where you can order your pizza online and  g
 # KEITH'S PIZZA 
 This project gives you chance to order pizza through the website 
 
-#technologies used
+#### technologies used.
 
 Html,CSS,javascript
 
