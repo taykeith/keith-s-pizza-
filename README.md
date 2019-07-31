@@ -14,6 +14,6 @@ This project gives you chance to order pizza through the website
 
 Html,CSS,javascript
 
-# Contact 
+# Contacts
 
 for more info email : keith.mbugi@gmail.com
