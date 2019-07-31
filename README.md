@@ -1,8 +1,4 @@
 
-#technologies used
-
-Html,CSS,javascript
-
 # Auther 
 
 KEITH MBUGI WACHIRA 
@@ -13,3 +9,8 @@ keiths pizza webpage.it's a website where you can order your pizza online and  g
 
 # keith-s-pizza-
 This project gives you chance to order pizza through the website 
+
+#technologies used
+
+Html,CSS,javascript
+
