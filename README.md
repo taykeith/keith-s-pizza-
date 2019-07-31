@@ -1,5 +1,3 @@
-# keith-s-pizza-
-This project gives you chance to order pizza through the website 
 
 #technologies used
 
