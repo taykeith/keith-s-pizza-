@@ -3,8 +3,12 @@ This project gives you chance to order pizza through the website
 
 #technologies used
 
-html,CSS,javascript
+Html,CSS,javascript
 
 # Auther 
 
 KEITH MBUGI WACHIRA 
+
+# Description 
+
+keiths pizza webpage. is a website where you can order your pizza online.
